@@ -37,10 +37,15 @@ In addition to this, the app also features a user profile that can be customised
 ## Gallery
 
 <a href="https://ibb.co/09NhX5p"><img src="https://i.ibb.co/fNR4SJV/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot1.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot1" border="0"></a>
-<a href="https://ibb.co/7YdzqfC"><img src="https://i.ibb.co/VjcNs19/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot2.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot2" border="0"></a>
-<a href="https://ibb.co/42510fQ"><img src="https://i.ibb.co/bF8bG3f/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot3.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot3" border="0"></a>
-<a href="https://ibb.co/fQpb5Ck"><img src="https://i.ibb.co/hCWkjKB/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot4.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot4" border="0"></a>
-<a href="https://ibb.co/NZpqfP5"><img src="https://i.ibb.co/cDt9RH0/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot5.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot5" border="0"></a>
-<a href="https://ibb.co/SRgW6SC"><img src="https://i.ibb.co/Hny1KZ8/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot6.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot6" border="0"></a>
-<a href="https://ibb.co/wK4FCML"><img src="https://i.ibb.co/vJk6mZB/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot7.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot7" border="0"></a>
 
+<a href="https://ibb.co/7YdzqfC"><img src="https://i.ibb.co/VjcNs19/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot2.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot2" border="0"></a>
+
+<a href="https://ibb.co/42510fQ"><img src="https://i.ibb.co/bF8bG3f/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot3.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot3" border="0"></a>
+
+<a href="https://ibb.co/fQpb5Ck"><img src="https://i.ibb.co/hCWkjKB/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot4.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot4" border="0"></a>
+
+<a href="https://ibb.co/NZpqfP5"><img src="https://i.ibb.co/cDt9RH0/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot5.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot5" border="0"></a>
+
+<a href="https://ibb.co/SRgW6SC"><img src="https://i.ibb.co/Hny1KZ8/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot6.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot6" border="0"></a>
+
+<a href="https://ibb.co/wK4FCML"><img src="https://i.ibb.co/vJk6mZB/Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot7.png" alt="Apple-i-Phone-8-4-7-inch-1290x2796-Screenshot7" border="0"></a>
